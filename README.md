@@ -49,6 +49,19 @@ The "Sounds for building" has certain differences with the "HQ Sounds" folder, a
 Refer to the Sound Sheet to know what sounds have a source or are upsampled, as well as the complete listing of every sound in the game. To get the vanilla sounds from the game, go to your sound/samples folder. If there is no folder, build the game (You do not have to wait till it's finished building, they are extracted at the start of the process)
 
 
+### Stats
+
+<pre>Catagorized:     205/217 (94.4%)
+Sources:              80/217  (35.8%)
+Upsampled:            14/217  (6.5%)
+Sources & Upsampled:  6/217   (2.8%)
+Questionable          7/217   (3.2%)
+
+Sounds:               89/137  (65%)
+Instruments:          18/80   (22.5%)
+Total:                107/217 (49.3%)
+
+
 ### Future
 
 I don't anticipate this project to get very far until Liam releases his own sound mod, supposedly with more samples and a remastered soundtrack. I'll leave it to him to do what he feels right, but in the mean time this will stay up regardless.
