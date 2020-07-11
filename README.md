@@ -17,14 +17,17 @@ Sound Effects Wiki       Most of the sound effects</pre>
 
 ### Sources
 
-<pre>Super Smash Bros. Melee                     Most of the mario voices
+<pre>Super Smash Bros. Melee                Most of the mario voices
 Super Mario 64 OST                          "It's-a me, Mario!"
+Super Mario World                           Yoshi
 Roland SC-88                                Strings 2, Music Box, Glockenspiel
 Roland SC-55                                Pat
-Roland JD-990                               Crystal Rhodes
+Roland JD-990                               Crystal Rhodes, Pan Flute
+KORG 01W/R                                  Woo Voice, 
+Sonic Images Library Vol. 1                 Monk Choir, Tambourine, Steel Drum
 Sound Ideas Series 6000                     A good chunk of the sounds
-Voice Spectral Vol. 1                       Yelp (Unused)
-Hollywood Premiere Edition Vol. 1           Big Splash
+Voice Spectral Vol. 1                       Yelp (Unused), Pah Voice
+Hollywood Premiere Edition Vol. 1           Big Splash, Ukiki
 Warner Bros. Sound Effect Library           A good chunk of the sounds
 Universal Studios Sound Effect Library      Bowser Roar, Boing, Boing (Unused), Box Break</pre>
 
