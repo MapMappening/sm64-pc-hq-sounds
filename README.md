@@ -5,18 +5,19 @@ Currently, this mod only works on EX branch of the port, but can be built with o
 
 ### Credits
 
-Map                      Rough Stone Sliding, Switch, recreated Lava, Waterfall 2, Metalcap
+
+<pre>Map                      Rough Stone Sliding, Switch, recreated Lava, Waterfall 2, Metalcap
 Aqua                     Bat, Pat, French Horn
 armageddon13             Crystal Rhodes
 Desko                    Whoosh
 Liam                     Pah Voice
 VGM Sources Discord      Most of the instruments
-Sound Effects Wiki       Most of the sound effects
+Sound Effects Wiki       Most of the sound effects</pre>
 
 
 ### Sources
 
-Super Smash Bros. Melee                     Most of the mario voices
+<pre>Super Smash Bros. Melee                     Most of the mario voices
 Super Mario 64 OST                          "It's-a me, Mario!"
 Roland SC-88                                Strings 2, Music Box, Glockenspiel
 Roland SC-55                                Pat
@@ -25,7 +26,7 @@ Sound Ideas Series 6000                     A good chunk of the sounds
 Voice Spectral Vol. 1                       Yelp (Unused)
 Hollywood Premiere Edition Vol. 1           Big Splash
 Warner Bros. Sound Effect Library           A good chunk of the sounds
-Universal Studios Sound Effect Library      Bowser Roar, Boing, Boing (Unused), Box Break
+Universal Studios Sound Effect Library      Bowser Roar, Boing, Boing (Unused), Box Break</pre>
 
 
 ### Installation/Building
