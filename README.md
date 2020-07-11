@@ -13,6 +13,7 @@ Desko                    Whoosh
 Liam                     Pah Voice
 VGM Sources Discord      Most of the instruments
 Sound Effects Wiki       Most of the sound effects</pre>
+Uncredited People        Mario "Yahoo!", Thwomp/Whomp
 
 
 ### Sources
@@ -23,7 +24,7 @@ Super Mario World                           Yoshi
 Roland SC-88                                Strings 2, Music Box, Glockenspiel
 Roland SC-55                                Pat
 Roland JD-990                               Crystal Rhodes, Pan Flute
-KORG 01W/R                                  Woo Voice, 
+KORG 01W/R                                  Woo Voice
 Sonic Images Library Vol. 1                 Monk Choir, Tambourine, Steel Drum
 Sound Ideas Series 6000                     A good chunk of the sounds
 Voice Spectral Vol. 1                       Yelp (Unused), Pah Voice
@@ -45,7 +46,7 @@ If you plan on sharing it, make sure you have external resources turned on so yo
 
 The "Sounds for building" has certain differences with the "HQ Sounds" folder, as they are converted to mono, don't have every sound, and some are sampled lower to compensate for the audio engine. "HQ Sounds" is for future builds that support a more robust audio system.
 
-The "Original Sounds" are there for comparison and organization, as well as showing how many sounds there are left to go.
+Refer to the Sound Sheet to know what sounds have a source or are upsampled, as well as the complete listing of every sound in the game. To get the vanilla sounds from the game, go to your sound/samples folder. If there is no folder, build the game (You do not have to wait till it's finished building, they are extracted at the start of the process)
 
 
 ### Future
