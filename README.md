@@ -17,7 +17,7 @@ Sound Effects Wiki       Most of the sound effects</pre>
 
 ### Sources
 
-<pre>Super Smash Bros. Melee                Most of the mario voices
+<pre>Super Smash Bros. Melee                    Most of the mario voices
 Super Mario 64 OST                          "It's-a me, Mario!"
 Super Mario World                           Yoshi
 Roland SC-88                                Strings 2, Music Box, Glockenspiel
