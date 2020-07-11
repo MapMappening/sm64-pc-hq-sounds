@@ -1,0 +1,250 @@
+KEY:
+
+✓  : Has a source
+●  : Was upsampled
+●✓ : A combination of the above
+?  : Weird thing going on
+
+Characters
+    ┣ Bowser
+        ┣  Death - sfx_6\03 						✓
+        ┣  Inhale - sfx_6\05 						✓
+        ┣  Roar - sfx_6\02 						✓
+        ┣  Step - sfx_6\01 						✓
+        ┗  Swing - sfx_6\04
+    ┣ Mario
+        ┣ Menus
+            ┣  Ending - sfx_mario_peach\0D 				●
+            ┣  Game Over! - sfx_mario\11
+            ┣  Hello! - sfx_mario\12 					●
+            ┣  It's-a me, Mario! - sfx_mario_peach\07 			✓
+            ┣  Let's-a go! - sfx_mario\1A 				? (Upsampled, but HQ version actually sounds slightly worse)
+            ┣  Okie-Dokie! - sfx_mario_peach\0B 			●
+            ┗  Press Start to Play - sfx_mario\13 			●
+	┣ States
+	    ┣  Butthurt - sfx_mario_peach\04 				✓
+	    ┣  Cough - sfx_mario_peach\06 				●
+	    ┣  Death - sfx_mario_peach\03 				●✓
+	    ┣  Dreaming - sfx_mario\15 					✓
+	    ┣  Drowning - sfx_mario_peach\0C 				●✓
+	    ┣  Falling - sfx_mario_peach\00 				✓
+	    ┣  Grunt 1 - sfx_mario\05 					✓
+	    ┣  Grunt 2 - sfx_mario_peach\05 				●
+	    ┣  Lift - sfx_mario\06 					✓
+	    ┣  Pain - sfx_mario\0A 					●
+	    ┣  Pull Up - sfx_mario\09 					●✓
+	    ┣  Snore 1 - sfx_mario\0E 					✓
+	    ┣  Snore 2 - sfx_mario\0F 					✓
+	    ┣  Throw - sfx_mario\07 					●
+	    ┣  Tired - sfx_mario_peach\02 				✓
+	    ┗  Yawning - sfx_mario\0D
+	┣  Boing! (Spin Jump) - sfx_mario\14
+	┣  Doh! - sfx_mario\10 						✓
+	┣  Haha! - sfx_mario\03 					✓
+	┣  Here we go! - sfx_mario\0C 					✓
+	┣  Hoo! (Kick) - sfx_mario_peach\09 				●
+	┣  Hoohoo! (Double Jump) - sfx_mario_peach\01 			✓
+	┣  I'm-a tired! - sfx_mario\17
+	┣  Mama Mia! - sfx_mario_peach\0A 				●
+	┣  Oof! - sfx_mario\0B 						✓
+	┣  So long, King Bowser! - sfx_mario\16
+	┣  Wah! (First Jump 2) - sfx_mario\01 				✓
+	┣  Waha! (Triple Jump 1) sfx_mario\18 				✓
+	┣  Woah! - sfx_mario\08 					✓
+	┣  Woo! (First Jump 1) - sfx_mario\00 				✓
+	┣  Ya! 1 - sfx_mario\02 					✓
+	┣  Ya! 2 - sfx_mario_peach\08 					✓
+	┣  Yahoo! (Long Jump - Triple Jump 2) - sfx_mario\04 		? (I don't remember where I got this, but it was from someone)
+	┗  Yipee! (Triple Jump 3) - sfx_mario\19 			✓
+    ┣ Peach
+	┣  Bake a cake - sfx_mario_peach\14
+	┣  Do something special - sfx_mario_peach\13
+	┣  For Mario - sfx_mario_peach\15
+	┣  Letter - sfx_mario_peach\0E					✓
+	┣  Mario! 1 - sfx_mario_peach\0F
+	┣  Mario! 2 - sfx_mario_peach\16				✓
+	┣  Power Stars - sfx_mario_peach\10
+	┣  Thank you, Mario - sfx_mario_peach\12
+	┗  Thanks to you - sfx_mario_peach\11
+    ┣ Penguins
+	 ┣  Cry - sfx_7\09
+	 ┗  Walk - sfx_6\06						●✓
+    ┣  Bat - sfx_5 18							✓
+    ┣  Boo Laugh OR Bowser Laugh - sfx_6\08				✓
+    ┣  Chain Chomp - sfx_7\0D						✓
+    ┣  Chomping Piano - sfx_7\0C
+    ┣  Klepto - sfx_7 08						✓
+    ┣  Mole Throw OR MIPS Hop - sfx_6\00
+    ┣  Mr. I OR Boo - sfx_7\00
+    ┣  Piranha Plant - sfx_6\0C						✓
+    ┣  Thwomp OR Whomp - sfx_07 0B - sfx_07\0B				? (I don't remember where I got this, but it was from someone)
+    ┣  Ukiki - sfx_7\06							✓
+    ┣  Yelp (Unused) - sfx_7\07						✓
+    ┗  Yoshi - sfx_1\03_yoshi						✓
+
+Environment
+     ┣ Ambience
+	  ┣  Bird Call 1 - sfx_5\15					✓
+	  ┣  Bird Call 2 - sfx_5\16					✓
+	  ┣  Bird Call 3 - sfx_5\17					✓
+	  ┗  Crickets - sfx_5\19
+     ┣ Cannon
+          ┣  Cock - sfx_6\0B						✓
+          ┣  Crank - sfx_7\05						✓
+          ┣  Fire - sfx_7\03						✓
+          ┣  Rise - sfx_6\09						✓
+          ┗  Turn - sfx_6\0A						✓
+     ┣ Door
+        ┣  Metal Close - sfx_5\04					✓
+        ┣  Metal Open - sfx_5\03					●
+        ┣  Wood Close - sfx_5\02					●
+        ┗  Wood Open - sfx_5\01						●✓
+     ┣ Water
+          ┣  Big Splash - sfx_water\00_plunge				✓
+          ┣  Bubbles - sfx_5\06						? (Makes no difference from the source)
+          ┣  Small Splash - sfx_water\01_splash				✓
+          ┣  Swimming - sfx_water\02_swim				✓
+          ┣  Tide - sfx_5\05						✓
+          ┣  Waterfall 1 - sfx_5\0F					✓
+          ┗  Waterfall 2 - sfx_5\1A					✓
+     ┣  Anvil Drop (Chest Open OR Bully Bump OR Tox Box) - sfx_7\01	●✓
+     ┣  Boing - sfx_5\1B						✓
+     ┣  Boing (Unused) - sfx_9\06					✓
+     ┣  Bomb Fuse - sfx_4\08
+     ┣  Bowling Ball Bounce OR Platform Finish - sfx_5\12
+     ┣  Box Break - sfx_5\14						✓
+     ┣  Explosion - sfx_5\0D						? (Not exact, the tail end is rubble)
+     ┣  Flamethrower OR Bowser Fire Breath - sfx_7\04			●✓
+     ┣  Lava - sfx_5\11							? (Recreated)
+     ┣  Low Drop (Hit by Boo) sfx_6\07
+     ┣  Platform - sfx_5\10
+     ┣  Race Start Gunshot - sfx_5\0E
+     ┣  Rough Stone Sliding (Bomp Slide) - sfx_6\0D			✓
+     ┣  Switch - sfx_5\08						✓
+     ┣  Trap - sfx_5\07
+     ┣  Water Bomb - sfx_7\0A
+     ┣  Wind - sfx_5\13							✓
+     ┣  Wood Clank - sfx_5\0A
+     ┗  Zap - sfx_4\09							●
+
+Movement
+    ┣ Footsteps
+          ┣  Default - sfx_terrain\00_step_default
+          ┣  Generic - sfx_terrain\02_step_stone
+          ┣  Grass - sfx_terrain\01_step_grass
+          ┣  Ice - sfx_terrain\05_step_ice
+          ┣  Metalcap - sfx_terrain\06_step_metal			✓
+          ┣  Sand - sfx_terrain\07_step_sand
+          ┣  Snow - sfx_terrain\04_step_snow
+          ┗  Wood - sfx_terrain\03_step_spooky
+    ┣ Sliding
+         ┣  Generic, Man-Made - sfx_4\03
+         ┣  Generic, Nature - sfx_4\00
+         ┣  Grass - sfx_4\01
+         ┣  Ice - sfx_4\06
+         ┣  Sand - sfx_4\07
+         ┣  Snow - sfx_4\05
+         ┣  Water - sfx_4\02
+         ┗  Wood - sfx_4\04
+    ┣  Ground Pound - sfx_1\05_heavy_landing
+    ┣  Pat - sfx_1\02_hand_touch					✓
+    ┣  Pull out of Ground - sfx_1\04_plop				✓
+    ┣  Tree Climb - sfx_1\01_brushing
+    ┗  Whoosh - sfx_1\00_twirl						✓
+
+Music
+  ┣ Percussion
+	┣  Bass Drop - instruments\1D
+	┣  Clave - instruments\0D					✓
+	┣  Conga Stick - instruments\0C					✓
+	┣  Cowbell - instruments\10
+	┣  Cymbal 1 - instruments\11
+	┣  Drum - instruments\0B
+	┣  Hat 1 - instruments\0E
+	┣  Hat 2 - instruments\12
+	┣  Hi-Hat Cymbal - instruments\0F
+	┣  Jungle Drums 1 - instruments\2A
+	┣  Jungle Drums 2 - instruments\2B
+	┣  Jungle Drums 3 - instruments\2C
+	┣  Kick Drum - instruments\06
+	┣  Rimshot 1 - instruments\32
+	┣  Rimshot 2 - instruments\07
+	┣  Snare - instruments\08
+	┣  Steel Drum, Sunshine thing - instruments\48			✓
+	┣  Tambourine - instruments\0A					✓
+	┣  Timpani - instruments\18
+	┗  Tom Tom - instruments\09
+  ┣  Accordian - instruments\2E
+  ┣  Accoustic Bass - instruments\05					✓
+  ┣  Accoustic Guitar - instruments\3C
+  ┣  Banjo 1 - instruments\01
+  ┣  Banjo 2 - instruments\3B
+  ┣  Bell - instruments\40
+  ┣  Bowser Convolution - instruments\31
+  ┣  Brass - instruments\19						✓
+  ┣  Bright Piano - instruments\04					✓
+  ┣  Crystal Rhodes - instruments\26					✓
+  ┣  Electronic Piano 1 - sfx_9\00
+  ┣  Electronic Piano 1 (LQ sfx_9\00) - sfx_9\01
+  ┣  French Horns - instruments\16					✓
+  ┣  French Horns (LQ instruments\16) - instruments\45			✓
+  ┣  Glockenspiel (Coin Sounds) - sfx_9\03				✓
+  ┣  Grand Piano - instruments\44
+  ┣  Harmonica - instruments\43
+  ┣  Human Whistle - instruments\03
+  ┣  Jingle Bells - instruments\2F
+  ┣  Low Flute - instruments\34
+  ┣  Low Pling - instruments\3D
+  ┣  Low Synth - instruments\35
+  ┣  Monk Choir - instruments\3E					✓
+  ┣  Music Box - instruments\3A AND piranha_music_box\00_pling		✓
+  ┣  Orchestral Hit - instruments\29
+  ┣  Organ 1 - bowser_organ\00
+  ┣  Organ 1 (LQ bowser_organ\00) - bowser_organ\01
+  ┣  Organ 2 - instruments\1B
+  ┣  Organ 3 (Menu Sound) - sfx_9\02
+  ┣  Pah Voice - course_start\00_la					✓
+  ┣  Pan Flute - instruments\41						? (Seems to not make a difference from source, but possibly does)
+  ┣  Pizzicato String - instruments\46
+  ┣  Pizzicato String Echo - instruments\47				✓
+  ┣  Sawtooth Synth - instruments\36
+  ┣  Saxophone Staccato - instruments\1C
+  ┣  Shamisen - instruments\00
+  ┣  Ship Horn 2 - instruments\30
+  ┣  Sine Synth - instruments\21
+  ┣  Sitar - instruments\28
+  ┣  Slap Bass - instruments\1A
+  ┣  Square Synth - instruments\37
+  ┣  Strings 1 - instruments\23
+  ┣  Strings 2 - instruments\24						✓
+  ┣  Strings 3 - instruments\25
+  ┣  Strings 4 - instruments\15
+  ┣  Strings 5 - instruments\14
+  ┣  Trombone - instruments\2D						✓
+  ┣  Trumpet - instruments\17
+  ┣  Vibraphone - instruments\42
+  ┣  Viola - instruments\02
+  ┗  Woo Voice - instruments\22 AND bowser_organ\02			✓
+
+Transitions
+     ┣  Painting Enter - sfx_5\0C					●
+     ┣  Painting Exit - sfx_5\0B
+     ┗  Warp - sfx_5\00							✓
+
+UI
+┣  Camera Mode - sfx_9\05						✓
+┗  Invalid - sfx_9\04
+
+Uncatagorized (Don't know where these play in the game)
+      ┣  Bomb Fuse Fade In - sfx_7\02
+      ┣  Bright Bagpipe Thing - instruments\39
+      ┣  Match Light - instruments\20
+      ┣  Piano thing - instruments\27
+      ┣  Rubber Slap - sfx_5\09
+      ┣  Shaker Tap - instruments\13
+      ┣  Table Slap - instruments\33
+      ┣  Thingy - instruments\38
+      ┣  Tuning Fork 2 - instruments\1F
+      ┣  Tuning Fork Ding - instruments\1E
+      ┣  Twinkle - sfx_5\1C
+      ┗  Vibrating thing - instruments\3F
