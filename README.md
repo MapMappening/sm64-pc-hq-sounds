@@ -12,8 +12,8 @@ armageddon13             Crystal Rhodes
 Desko                    Whoosh
 Liam                     Pah Voice
 VGM Sources Discord      Most of the instruments
-Sound Effects Wiki       Most of the sound effects</pre>
-Uncredited People        Mario "Yahoo!", Thwomp/Whomp
+Sound Effects Wiki       Most of the sounds
+Uncredited People        Mario "Yahoo!", Thwomp/Whomp</pre>
 
 
 ### Sources
