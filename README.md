@@ -35,7 +35,7 @@ Universal Studios Sound Effect Library      Bowser Roar, Boing, Boing (Unused), 
 
 ### Installation/Building
 
-To use this mod, make sure your nightly build has external resources enabled. Put it in your res folder (still zipped) and launch the game. If you encounter any audio clipping, lower your sfx volume.
+To use this mod, make sure your EX build has external resources enabled. Put it in your res folder (still zipped) and launch the game. If you encounter any audio clipping, lower your sfx volume.
 
 To build this in with non-EX branches, or if you want to make changes to the mod, grab the contents of "Sounds for building" and put them in your builder's sound/samples folder (Not the one inside your build folder, if you see aifc's you're in the wrong place. If there isn't a samples folder, make one). 
 
