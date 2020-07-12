@@ -52,8 +52,8 @@ Refer to the Sound Sheet to know what sounds have a source or are upsampled, as 
 ### Stats
 
 <pre>Catagorized:          205/217 (94.4%)
-Sources:              80/217  (35.8%)
-Upsampled:            14/217  (6.5%)
+Sources:              79/217  (36.4%)
+Upsampled:            15/217  (6.9%)
 Sources + Upsampled:  6/217   (2.8%)
 Questionable          7/217   (3.2%)
 
