@@ -10,7 +10,7 @@ Characters
         ┣  Death - sfx_6\03 						✓
         ┣  Inhale - sfx_6\05 						✓
         ┣  Roar - sfx_6\02 						✓
-        ┣  Step - sfx_6\01 						✓
+        ┣  Step - sfx_6\01 						●
         ┗  Swing - sfx_6\04
     ┣ Mario
         ┣ Menus
