@@ -21,7 +21,7 @@ Uncredited People        Mario "Yahoo!", Thwomp/Whomp</pre>
 <pre>Super Smash Bros. Melee                     Most of the mario voices
 Super Mario 64 OST                          "It's-a me, Mario!"
 Super Mario World                           Yoshi
-Roland SC-88                                Strings 2, Music Box, Glockenspiel
+Roland SC-88                                Strings 2, Music Box, Glockenspiel, French Horn
 Roland SC-55                                Pat
 Roland JD-990                               Crystal Rhodes, Pan Flute
 KORG 01W/R                                  Woo Voice
