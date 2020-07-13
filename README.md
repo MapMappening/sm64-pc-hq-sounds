@@ -9,11 +9,11 @@ Currently, this mod only works on EX branch of the port, but can be built with o
 <pre>Map                      Rough Stone Sliding, Switch, recreated Lava, Waterfall 2, Metalcap
 Aqua                     Bat, Pat, French Horn
 armageddon13             Crystal Rhodes
-Desko                    Whoosh
+Desko                    Whoosh, Mario "Yahoo!"
 Liam                     Pah Voice
 VGM Sources Discord      Most of the instruments
 Sound Effects Wiki       Most of the sounds
-Uncredited People        Mario "Yahoo!", Thwomp/Whomp</pre>
+Uncredited Person        Thwomp/Whomp</pre>
 
 
 ### Sources
@@ -21,6 +21,7 @@ Uncredited People        Mario "Yahoo!", Thwomp/Whomp</pre>
 <pre>Super Smash Bros. Melee                     Most of the mario voices
 Super Mario 64 OST                          "It's-a me, Mario!"
 Super Mario World                           Yoshi
+Nintendo Puzzle Collection                  Mario "Yahoo!"
 Roland SC-88                                Strings 2, Music Box, Glockenspiel, French Horn
 Roland SC-55                                Pat
 Roland JD-990                               Crystal Rhodes, Pan Flute
