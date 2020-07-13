@@ -116,6 +116,7 @@ Environment
      ┣  Explosion - sfx_5\0D						? (Not exact, the tail end is rubble)
      ┣  Flamethrower OR Bowser Fire Breath - sfx_7\04			●✓
      ┣  Lava - sfx_5\11							? (Recreated)
+     ┣  LLL Puzzle Shift - sfx_7 02
      ┣  Low Drop (Hit by Boo) sfx_6\07
      ┣  Platform - sfx_5\10
      ┣  Race Start Gunshot - sfx_5\0E
@@ -236,7 +237,6 @@ UI
 ┗  Invalid - sfx_9\04
 
 Uncatagorized (Don't know where these play in the game)
-      ┣  Bomb Fuse Fade In - sfx_7\02
       ┣  Bright Bagpipe Thing - instruments\39
       ┣  Match Light - instruments\20
       ┣  Piano thing - instruments\27
