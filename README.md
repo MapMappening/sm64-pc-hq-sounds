@@ -49,7 +49,7 @@ The "Sounds for building" has certain differences with the "HQ Sounds" folder, a
 
 Refer to the Sound Sheet to know what sounds have a source or are upsampled, as well as the complete listing of every sound in the game. To get the vanilla sounds from the game, go to your sound/samples folder. If there is no folder, build the game (You do not have to wait till it's finished building, they are extracted at the start of the process)
 
-The sound-audtions branch is for anyone who wants to submit sounds that are close to the original sounds. I'm more liberal with sound effects, but instruments have to be exact. Submit pull requests there.
+The sound-auditions branch is for anyone who wants to submit sounds that are close to the original sounds. I'm more liberal with sound effects, but instruments have to be exact. Submit pull requests there.
 
 
 ### Stats
