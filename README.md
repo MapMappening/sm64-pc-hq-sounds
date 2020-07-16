@@ -31,6 +31,8 @@ KORG 01W/R                                  Woo Voice
 Sonic Images Library Vol. 1                 Monk Choir, Tambourine, Steel Drum
 Sound Ideas Series 6000                     A good chunk of the sounds
 Voice Spectral Vol. 1                       Yelp (Unused), Pah Voice
+BFA Megaton Pack                            Tabla 3
+A Poke in the Ear with a Sharp Stick        Metal Rimshot, Kick Drum 2, Convolution, Lahna
 Hollywood Premiere Edition Vol. 1           Big Splash, Ukiki
 Warner Bros. Sound Effect Library           A good chunk of the sounds
 Universal Studios Sound Effect Library      Bowser Roar, Boing, Boing (Unused), Box Break</pre>
