@@ -6,11 +6,13 @@ Currently, this mod only works on EX branch of the port, but can be built with o
 ### Credits
 
 
-<pre>Map                      Rough Stone Sliding, Switch, recreated Lava, Waterfall 2, Metalcap
+<pre>Map                      Rough Stone Sliding, Switch, recreated Lava, Waterfall 2, Metalcap, Tabla 3
 Aqua                     Bat, Pat, French Horn
 armageddon13             Crystal Rhodes
 Desko                    Whoosh, Mario "Yahoo!"
 Liam                     Pah Voice
+Infomanic95              Convolution, Metal Rimshot, Kick Drum 2
+michael02022             Lahna
 VGM Sources Discord      Most of the instruments
 Sound Effects Wiki       Most of the sounds
 Uncredited Person        Thwomp/Whomp</pre>
