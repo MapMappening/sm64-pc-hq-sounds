@@ -11,7 +11,7 @@ Characters
         ┣  Inhale - sfx_6\05 						✓
         ┣  Roar - sfx_6\02 						✓
         ┣  Step - sfx_6\01 						●
-        ┗  Swing - sfx_6\04
+        ┗  Swing - sfx_6\04						? (Recreated)
     ┣ Mario
         ┣ Menus
             ┣  Ending - sfx_mario_peach\0D 				●
@@ -60,9 +60,9 @@ Characters
 	┣  Bake a cake - sfx_mario_peach\14
 	┣  Do something special - sfx_mario_peach\13
 	┣  For Mario - sfx_mario_peach\15
-	┣  Letter - sfx_mario_peach\0E					✓
+	┣  Letter - sfx_mario_peach\0E					●
 	┣  Mario! 1 - sfx_mario_peach\0F
-	┣  Mario! 2 - sfx_mario_peach\16				✓
+	┣  Mario! 2 - sfx_mario_peach\16				●
 	┣  Power Stars - sfx_mario_peach\10
 	┣  Thank you, Mario - sfx_mario_peach\12
 	┗  Thanks to you - sfx_mario_peach\11
@@ -87,7 +87,7 @@ Environment
 	  ┣  Bird Call 1 - sfx_5\15					✓
 	  ┣  Bird Call 2 - sfx_5\16					✓
 	  ┣  Bird Call 3 - sfx_5\17					✓
-	  ┗  Crickets - sfx_5\19
+	  ┗  Crickets - sfx_5\19					? (Not faithful)
      ┣ Cannon
           ┣  Cock - sfx_6\0B						✓
           ┣  Crank - sfx_7\05						✓
@@ -156,34 +156,41 @@ Movement
 Music
   ┣ Percussion
 	┣  Bass Drop - instruments\1D
+	┣  Cabasa - instruments 20
 	┣  Clave - instruments\0D					✓
 	┣  Conga Stick - instruments\0C					✓
 	┣  Cowbell - instruments\10
 	┣  Cymbal 1 - instruments\11
-	┣  Drum - instruments\0B
+	┣  Cymbal 2 - instruments\10
+	┣  Drum 1 - instruments\12
+	┣  Drum 2 - instruments\13
+	┣  Electric Kick - instruments\38
 	┣  Hat 1 - instruments\0E
-	┣  Hat 2 - instruments\12
-	┣  Hi-Hat Cymbal - instruments\0F
-	┣  Jungle Drums 1 - instruments\2A
-	┣  Jungle Drums 2 - instruments\2B
-	┣  Jungle Drums 3 - instruments\2C
-	┣  Kick Drum - instruments\06
-	┣  Rimshot 1 - instruments\32
-	┣  Rimshot 2 - instruments\07
+	┣  Hat 2 - instruments\0F
+	┣  Kick Drum 1 - instruments\06
+	┣  Kick Drum 2  - instruments\33
+	┣  Metal Rimshot - instruments\32
+	┣  Rimshot - instruments\07
 	┣  Snare - instruments\08
-	┣  Steel Drum, Sunshine thing - instruments\48			✓
+	┣  Steel Drum - instruments\48					✓
+	┣  Tabla 1 - instruments\2A
+	┣  Tabla 2 - instruments\2B
+	┣  Tabla 3 - instruments\2C
 	┣  Tambourine - instruments\0A					✓
 	┣  Timpani - instruments\18
-	┗  Tom Tom - instruments\09
+	┣  Tom Tom 1 - instruments\0B
+	┣  Tom Tom 2 - instruments\09
+	┣  Triangle 1 - instruments\1F
+	┗  Triangle 2 - instruments\1E
   ┣  Accordian - instruments\2E
   ┣  Accoustic Bass - instruments\05					✓
   ┣  Accoustic Guitar - instruments\3C
   ┣  Banjo 1 - instruments\01
   ┣  Banjo 2 - instruments\3B
   ┣  Bell - instruments\40
-  ┣  Bowser Convolution - instruments\31
   ┣  Brass - instruments\19						✓
   ┣  Bright Piano - instruments\04					✓
+  ┣  Convolution - instruments\31
   ┣  Crystal Rhodes - instruments\26					✓
   ┣  Electronic Piano 1 - sfx_9\00
   ┣  Electronic Piano 1 (LQ sfx_9\00) - sfx_9\01
@@ -194,6 +201,7 @@ Music
   ┣  Harmonica - instruments\43
   ┣  Human Whistle - instruments\03
   ┣  Jingle Bells - instruments\2F
+  ┣  Lahna - instruments\30
   ┣  Low Flute - instruments\34
   ┣  Low Pling - instruments\3D
   ┣  Low Synth - instruments\35
@@ -211,7 +219,6 @@ Music
   ┣  Sawtooth Synth - instruments\36
   ┣  Saxophone Staccato - instruments\1C
   ┣  Shamisen - instruments\00
-  ┣  Ship Horn 2 - instruments\30
   ┣  Sine Synth - instruments\21
   ┣  Sitar - instruments\28
   ┣  Slap Bass - instruments\1A
@@ -238,13 +245,7 @@ UI
 
 Uncatagorized (Don't know where these play in the game)
       ┣  Bright Bagpipe Thing - instruments\39
-      ┣  Match Light - instruments\20
       ┣  Piano thing - instruments\27
       ┣  Rubber Slap - sfx_5\09
-      ┣  Shaker Tap - instruments\13
-      ┣  Table Slap - instruments\33
-      ┣  Thingy - instruments\38
-      ┣  Tuning Fork 2 - instruments\1F
-      ┣  Tuning Fork Ding - instruments\1E
       ┣  Twinkle - sfx_5\1C
       ┗  Vibrating thing - instruments\3F
