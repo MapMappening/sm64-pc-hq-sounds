@@ -168,14 +168,14 @@ Music
 	┣  Hat 1 - instruments\0E
 	┣  Hat 2 - instruments\0F
 	┣  Kick Drum 1 - instruments\06
-	┣  Kick Drum 2  - instruments\33
-	┣  Metal Rimshot - instruments\32
+	┣  Kick Drum 2  - instruments\33				✓
+	┣  Metal Rimshot - instruments\32				✓
 	┣  Rimshot - instruments\07
 	┣  Snare - instruments\08
 	┣  Steel Drum - instruments\48					✓
 	┣  Tabla 1 - instruments\2A
 	┣  Tabla 2 - instruments\2B
-	┣  Tabla 3 - instruments\2C
+	┣  Tabla 3 - instruments\2C					✓
 	┣  Tambourine - instruments\0A					✓
 	┣  Timpani - instruments\18
 	┣  Tom Tom 1 - instruments\0B
@@ -190,7 +190,7 @@ Music
   ┣  Bell - instruments\40
   ┣  Brass - instruments\19						✓
   ┣  Bright Piano - instruments\04					✓
-  ┣  Convolution - instruments\31
+  ┣  Convolution - instruments\31					✓
   ┣  Crystal Rhodes - instruments\26					✓
   ┣  Electronic Piano 1 - sfx_9\00
   ┣  Electronic Piano 1 (LQ sfx_9\00) - sfx_9\01
@@ -201,7 +201,7 @@ Music
   ┣  Harmonica - instruments\43
   ┣  Human Whistle - instruments\03
   ┣  Jingle Bells - instruments\2F
-  ┣  Lahna - instruments\30
+  ┣  Lahna - instruments\30						✓
   ┣  Low Flute - instruments\34
   ┣  Low Pling - instruments\3D
   ┣  Low Synth - instruments\35
