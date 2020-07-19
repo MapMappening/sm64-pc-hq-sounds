@@ -3,6 +3,9 @@ This is a project aiming to bring high quality sounds to Super Mario 64 for PC
 
 Currently, this mod only works on EX branch of the port, but can be built with other forks. PAK versions will be coming once I have the time.
 
+NOTICE: If you're coming from the channel Unreal, go to this video for a non-crappy comparison video. That guy seriously bitcrunched his audio to make it even harder to differentiate.
+https://www.youtube.com/watch?v=zDH45ip2TUw
+
 ### Credits
 
 
