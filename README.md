@@ -15,7 +15,7 @@ armageddon13             Crystal Rhodes
 Desko                    Whoosh, Mario "Yahoo!"
 Liam                     Pah Voice
 Infomanic95              Convolution, Metal Rimshot, Kick Drum 2
-michael02022             Lahna
+michael02022             Lahna, Orchestral Hit
 VGM Sources Discord      Most of the instruments
 Sound Effects Wiki       Most of the sounds
 Uncredited Person        Thwomp/Whomp</pre>
