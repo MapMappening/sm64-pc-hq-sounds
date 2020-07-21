@@ -47,14 +47,14 @@ Characters
 	┣  I'm-a tired! - sfx_mario\17
 	┣  Mama Mia! - sfx_mario_peach\0A 				●
 	┣  Oof! - sfx_mario\0B 						✓
-	┣  So long, King Bowser! - sfx_mario\16
+	┣  So long, King Bowser! - sfx_mario\16				
 	┣  Wah! (First Jump 2) - sfx_mario\01 				✓
 	┣  Waha! (Triple Jump 1) sfx_mario\18 				✓
 	┣  Woah! - sfx_mario\08 					✓
 	┣  Woo! (First Jump 1) - sfx_mario\00 				✓
 	┣  Ya! 1 - sfx_mario\02 					✓
 	┣  Ya! 2 - sfx_mario_peach\08 					✓
-	┣  Yahoo! (Long Jump - Triple Jump 2) - sfx_mario\04 		? (I don't remember where I got this, but it was from someone)
+	┣  Yahoo! (Long Jump - Triple Jump 2) - sfx_mario\04 		? (Appears to be the same sound but resampled better)
 	┗  Yipee! (Triple Jump 3) - sfx_mario\19 			✓
     ┣ Peach
 	┣  Bake a cake - sfx_mario_peach\14
@@ -72,9 +72,9 @@ Characters
     ┣  Bat - sfx_5 18							✓
     ┣  Boo Laugh OR Bowser Laugh - sfx_6\08				✓
     ┣  Chain Chomp - sfx_7\0D						✓
-    ┣  Chomping Piano - sfx_7\0C
+    ┣  Chomping Piano - sfx_7\0C					●
     ┣  Klepto - sfx_7 08						✓
-    ┣  Mole Throw OR MIPS Hop - sfx_6\00
+    ┣  Mole Throw OR MIPS Hop - sfx_6\00				●
     ┣  Mr. I OR Boo - sfx_7\00
     ┣  Piranha Plant - sfx_6\0C						✓
     ┣  Thwomp OR Whomp - sfx_07 0B - sfx_07\0B				? (I don't remember where I got this, but it was from someone)
@@ -87,7 +87,7 @@ Environment
 	  ┣  Bird Call 1 - sfx_5\15					✓
 	  ┣  Bird Call 2 - sfx_5\16					✓
 	  ┣  Bird Call 3 - sfx_5\17					✓
-	  ┗  Crickets - sfx_5\19					? (Not faithful)
+	  ┗  Crickets - sfx_5\19					? (Not faithful, and requires looping so no echo)
      ┣ Cannon
           ┣  Cock - sfx_6\0B						✓
           ┣  Crank - sfx_7\05						✓
@@ -101,7 +101,7 @@ Environment
         ┗  Wood Open - sfx_5\01						●✓
      ┣ Water
           ┣  Big Splash - sfx_water\00_plunge				✓
-          ┣  Bubbles - sfx_5\06						? (Makes no difference from the source)
+          ┣  Bubbles - sfx_5\06						? (Makes no audible difference from the source)
           ┣  Small Splash - sfx_water\01_splash				✓
           ┣  Swimming - sfx_water\02_swim				✓
           ┣  Tide - sfx_5\05						✓
@@ -110,22 +110,22 @@ Environment
      ┣  Anvil Drop (Chest Open OR Bully Bump OR Tox Box) - sfx_7\01	●✓
      ┣  Boing - sfx_5\1B						✓
      ┣  Boing (Unused) - sfx_9\06					✓
-     ┣  Bomb Fuse - sfx_4\08
-     ┣  Bowling Ball Bounce OR Platform Finish - sfx_5\12
+     ┣  Bomb Fuse - sfx_4\08						
+     ┣  Bowling Ball Bounce OR Platform Finish - sfx_5\12		
      ┣  Box Break - sfx_5\14						✓
      ┣  Explosion - sfx_5\0D						? (Not exact, the tail end is rubble)
      ┣  Flamethrower OR Bowser Fire Breath - sfx_7\04			●✓
      ┣  Lava - sfx_5\11							? (Recreated)
-     ┣  LLL Puzzle Shift - sfx_7 02
-     ┣  Low Drop (Hit by Boo) sfx_6\07
-     ┣  Platform - sfx_5\10
-     ┣  Race Start Gunshot - sfx_5\0E
+     ┣  LLL Puzzle Shift - sfx_7 02					
+     ┣  Low Drop (Hit by Boo) sfx_6\07					
+     ┣  Platform - sfx_5\10						
+     ┣  Race Start Gunshot - sfx_5\0E					
      ┣  Rough Stone Sliding (Bomp Slide) - sfx_6\0D			✓
      ┣  Switch - sfx_5\08						✓
-     ┣  Trap - sfx_5\07
-     ┣  Water Bomb - sfx_7\0A
+     ┣  Trap - sfx_5\07							●
+     ┣  Timpani (Water Bomb) - sfx_7\0A					✓
      ┣  Wind - sfx_5\13							✓
-     ┣  Wood Clank - sfx_5\0A
+     ┣  Wood Clank - sfx_5\0A						●
      ┗  Zap - sfx_4\09							●
 
 Movement
@@ -191,7 +191,7 @@ Music
   ┣  Brass - instruments\19						✓
   ┣  Bright Piano - instruments\04					✓
   ┣  Convolution - instruments\31					✓
-  ┣  Crystal Rhodes - instruments\26					✓
+  ┣  Crystal Rhodes - instruments\26					? (It's definitely the source, but there are other elements so it's not exact)
   ┣  Electronic Piano 1 - sfx_9\00
   ┣  Electronic Piano 1 (LQ sfx_9\00) - sfx_9\01
   ┣  French Horns - instruments\16					✓
@@ -236,7 +236,7 @@ Music
 
 Transitions
      ┣  Painting Enter - sfx_5\0C					●
-     ┣  Painting Exit - sfx_5\0B
+     ┣  Painting Exit - sfx_5\0B					●
      ┗  Warp - sfx_5\00							✓
 
 UI

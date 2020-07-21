@@ -62,14 +62,14 @@ The sound-auditions branch is for anyone who wants to submit sounds that are clo
 ### Stats
 
 <pre>Catagorized:          212/217 (97.6%)
-Sources:              81/217  (37.3%)
-Upsampled:            15/217  (7.8%)
-Sources + Upsampled:  6/217   (2.8%)
-Questionable          8/217   (3.6%)
+Sources:              82/217  (37.8%)
+Upsampled:            22/217  (10.1%)
+Sources + Upsampled:  7/217   (3.2%)
+Questionable          10/217   (4.6%)
 
-Sounds:               90/137  (65.6%)
-Instruments:          23/80   (28.7%)
-Total:                113/217 (52%)</pre>
+Sounds:               97/137  (70.8%)
+Instruments:          24/80   (30%)
+Total:                121/217 (55.8%)</pre>
 
 
 ### Future
