@@ -221,7 +221,7 @@ Music
   ┣  Shamisen - instruments\00
   ┣  Sine Synth - instruments\21
   ┣  Sitar - instruments\28
-  ┣  Slap Bass - instruments\1A
+  ┣  Slap Bass - instruments\1A						✓
   ┣  Square Synth - instruments\37
   ┣  Strings 1 - instruments\23
   ┣  Strings 2 - instruments\24						✓

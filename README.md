@@ -35,6 +35,7 @@ Sonic Images Library Vol. 1                 Monk Choir, Tambourine, Steel Drum
 Sound Ideas Series 6000                     A good chunk of the sounds
 Voice Spectral Vol. 1                       Yelp (Unused), Pah Voice
 BFA Megaton Pack                            Tabla 3
+Spectrasonic Bass Legends					Accoustic Bass, Slap Bass
 A Poke in the Ear with a Sharp Stick        Metal Rimshot, Kick Drum 2, Convolution, Lahna
 Hollywood Premiere Edition Vol. 1           Big Splash, Ukiki
 Warner Bros. Sound Effect Library           A good chunk of the sounds
