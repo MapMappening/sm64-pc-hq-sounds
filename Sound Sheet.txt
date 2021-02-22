@@ -80,7 +80,7 @@ Characters
     ┣  Thwomp OR Whomp - sfx_07 0B - sfx_07\0B				? (I don't remember where I got this, but it was from someone)
     ┣  Ukiki - sfx_7\06							✓
     ┣  Yelp (Unused) - sfx_7\07						✓
-    ┗  Yoshi - sfx_1\03_yoshi						✓
+    ┗  Yoshi - sfx_1\03_yoshi						✓ This clip is from the SMWRestored project by The Brickster
 
 Environment
      ┣ Ambience
