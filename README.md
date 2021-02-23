@@ -18,7 +18,7 @@ Map, Desko, Sean the Bermanator, Shutdown, Sound Effects Wiki,</pre>
 
 ### Sources
 
-<pre>Super Smash Bros. Melee                    Most of the mario voices
+<pre>Super Smash Bros. Melee                     Most of the mario voices
 AKAI S1000                                  Banjo 1
 E-MU Proteus/1                              Harpsikord
 Korg 01R/W                                  Sawtooth Synth
