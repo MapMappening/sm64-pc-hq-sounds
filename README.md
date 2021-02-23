@@ -21,26 +21,26 @@ Map, Desko, Sean the Bermanator, Shutdown, Sound Effects Wiki,</pre>
 
 ### Sources
 
-<pre>Super Smash Bros. Melee                     Most of the mario voices
-AKAI S1000									Banjo 1
-E-MU Proteus/1								Harpsikord
-Korg 01R/W									Sawtooth Synth
+<pre>Super Smash Bros. Melee                Most of the mario voices
+AKAI S1000									                Banjo 1
+E-MU Proteus/1								              Harpsikord
+Korg 01R/W									                Sawtooth Synth
 Super Mario 64 OST                          "It's-a me, Mario!"
 Super Mario World                           Yoshi
 Nintendo Puzzle Collection                  Mario "Yahoo!"
 Roland SC-88                                A good chunk of the instruments
-Roland SC-55								Pat, Menu Organ
+Roland SC-55								                Pat, Menu Organ
 Roland JD-990                               Crystal Rhodes, Lyric Pipe
 Samplecell Vol.1                            A good chunk of the instruments
 Sonic Images Library Vol. 1                 Monk Choir, Tambourine, Steel Drum
 Sound Ideas Series 6000                     A good chunk of the general sounds
 Voice Spectral Vol. 1                       Yelp, Pah Voice
-Spectrasonic Bass Legends					Accoustic Bass, Funk Bass
+Spectrasonic Bass Legends					          Accoustic Bass, Funk Bass
 A Poke in the Ear with a Sharp Stick        Metal Rimshot, Kick Drum 2, Convolution, Lahna
-ILIO Synclavier Percussion					Timpani
-Ensoniq EQ80								Whistle
-The Denny Jaeger Private Collection			Trombone
-Prosonus Orchestral Hanz Zimmer Guitars		Hat 1+2, Cymbal, 
+ILIO Synclavier Percussion					        Timpani
+Ensoniq EQ80								                Whistle
+The Denny Jaeger Private Collection			    Trombone
+Prosonus Orchestral Hanz Zimmer Guitars		  Hat 1+2, Cymbal, 
 Hollywood Premiere Edition Vol. 1           Ukiki
 Warner Bros. Sound Effect Library           A good chunk of the general sounds
 Universal Studios Sound Effect Library      Bowser Roar, Boing 1, Boing 2 (Unused), Box Break</pre>
