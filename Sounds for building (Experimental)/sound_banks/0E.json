@@ -82,7 +82,7 @@
         },
         "inst4": {
             "release_rate": 119,
-			"normal_range_hi": 57,
+			"normal_range_hi": 69,
             "envelope": "envelope4",
             "sound": "2D",
 			"sound_hi": "49"

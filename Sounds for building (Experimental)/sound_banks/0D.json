@@ -86,8 +86,10 @@
         },
         "inst2": {
             "release_rate": 180,
+			"normal_range_hi": 58,
             "envelope": "envelope2",
-            "sound": "02"
+            "sound": "02",
+			"sound_hi": "51",
         },
         "inst3": {
             "release_rate": 208,
